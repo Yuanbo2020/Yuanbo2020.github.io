@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://yuanbo2020.github.io/al-folio/sitemap.xml
