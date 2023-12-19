@@ -1,0 +1,16 @@
+1、win10 上安装好dockers
+
+2、建立自己的空的github.io repository，然后 pull 到本地
+
+3、下载 https://github.com/alshedivat/al-folio 的文件，并放到自己的空的github.io repository的本地文件夹下面
+
+4、打开Windows CMD，进入到自己的github.io repository的本地文件夹下面，然后按照 al-folio 上面的提示，docker compose pull， docker compose up
+
+5、注意他的主页上的 Local setup using Docker (Recommended) 和 Local Setup (Legacy) 还有其他类似的，都是2选1，不是都是必需的
+
+6、根据Deployment 的设置，并上传，然后就OK了
+
+7、如果遇到问题：it fails to build and throws Unknown tag 'toc'. How do I fix that?
+直接修改下默认显示的分支就行
+
+8、后期不再需要dockers，可删除
