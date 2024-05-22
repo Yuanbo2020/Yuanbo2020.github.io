@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://yuanbo2020.github.io/sitemap.xml
